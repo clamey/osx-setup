@@ -1,4 +1,4 @@
 osx-setup
 =========
 
-Skol!
+Cheers!
